@@ -1,0 +1,44 @@
+{
+	"id": "string",
+	"created": "2022-04-13T00:00:18.428Z",
+	"lastUpdated": "2022-04-13T00:00:18.428Z",
+	"displayName": "string",
+	"description": "string",
+	"status": 0,
+	"signerId": "24d161743c557812ab12ef34",
+	"urlName": "string",
+	"profileImageUrl": "string",
+	"contactInfo": "string",
+	"discordGuildId": "string",
+	"users": [{
+		"entityId": "string",
+		"status": 0,
+		"requestStatus": 0,
+		"approvalDate": "2022-04-13T00:00:18.428Z",
+		"rescindDate": "2022-04-13T00:00:18.428Z",
+		"created": "2022-04-13T00:00:18.428Z",
+		"lastUpdated": "2022-04-13T00:00:18.428Z",
+		"id": "string"
+	}],
+	"events": [
+		"string"
+	],
+	"subgroups": [
+		"string"
+	],
+	"parentGroupId": "24d161743c557812ab12ef34",
+	"privacy": {
+		"visibility": 0,
+		"join": 0
+	},
+	"tags": [
+		"string"
+	],
+	"note": "string",
+	"activityLog": [{
+		"entry": "string",
+		"created": "2022-04-13T00:00:18.428Z",
+		"lastUpdated": "2022-04-13T00:00:18.428Z",
+		"id": "string"
+	}]
+}
